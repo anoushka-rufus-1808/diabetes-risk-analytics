@@ -6,7 +6,7 @@
 
 A comprehensive data analytics project analyzing diabetes risk factors using the CDC's Behavioral Risk Factor Surveillance System (BRFSS) 2015 dataset. This project identifies high-risk populations and key health indicators associated with diabetes to support public health intervention strategies.
 
-**Live Dashboard:** [[View on Tableau Public](https://public.tableau.com/views/bookkk_17687210171020/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](#) 
+**Live Dashboard:** [[View on Tableau Public](https://public.tableau.com/views/bookkk_17687210171020/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
 
@@ -169,7 +169,7 @@ See [`sql/analysis_queries.sql`](sql/analysis_queries.sql) for all queries.
 
 ### Dashboard Components
 
-![Dashboard](images/Diabetes Risk Analysis Dashboard.png)
+[`dashboards/diabetes_risk_dashboard.twb`](dashboards/diabetes_risk_dashboard.twb) 
 
 **Interactive Features:**
 1. **KPI Card:** Overall diabetes prevalence (13.9%)
