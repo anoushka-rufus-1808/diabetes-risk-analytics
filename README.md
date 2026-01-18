@@ -321,13 +321,6 @@ Full documentation: [CDC BRFSS Codebook](https://www.cdc.gov/brfss/annual_data/2
 
 ---
 
-**⭐ If you found this project helpful, please consider giving it a star!**
-```
-
----
-
-## **9.5 Create requirements.txt**
-
 Update your `requirements.txt` with exact versions:
 ```
 pandas==2.0.3
