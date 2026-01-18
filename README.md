@@ -1,6 +1,7 @@
 # Diabetes Risk Analysis - Public Health Dashboard
 
-![Dashboard Preview](images/Diabetes Risk Analysis Dashboard.png)
+[Dashboard Preview]
+[`dashboards/diabetes_risk_dashboard.twb`](dashboards/diabetes_risk_dashboard.twb) 
 
 ## 📊 Project Overview
 
